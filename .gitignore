@@ -1,0 +1,6 @@
+vendor/
+.idea
+tmp/
+infection-log.txt
+.phpunit.result.cache
+/infection.log
